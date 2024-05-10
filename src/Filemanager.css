@@ -1,0 +1,49 @@
+/* FileManagerPage.css */
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.file-list {
+    margin-top: 10px;
+}
+
+.file-item {
+    margin-bottom: 5px;
+}
+
+.file-link {
+    color: blue;
+    text-decoration: none;
+}
+
+.file-link:hover {
+    text-decoration: underline;
+}
+
+.upload-form {
+    margin-top: 20px;
+}
+
+.upload-input {
+    margin-bottom: 10px;
+}
+
+.upload-btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.upload-btn:hover {
+    background-color: #0056b3;
+}
